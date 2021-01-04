@@ -2,9 +2,12 @@
 
 .App {
   width: 100%;
+  color: $default-font-color !important;
  
 }
 
 body {
-  background-color: $background-color !important;
+  background-image: url(../images/bewellRoomBackground.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
